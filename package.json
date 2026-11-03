@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-leveldb-node",
+  "version": "1.0.0",
+  "description": "Embedded LevelDB local key-value store powered by kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.0"
+  },
+  "license": "MIT"
+}
